@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
-Implementation-Title: springBoot-elasticsearch
-Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Title: elasticsearch
+Implementation-Version: 1.0.1-SNAPSHOT
 Built-By: lichao
-Implementation-Vendor-Id: io.ymq.example
+Implementation-Vendor-Id: io.elasticsearch
 Build-Jdk: 1.8.0_121
-Implementation-URL: http://projects.spring.io/spring-boot/springBoot-e
- lasticsearch/
+Implementation-URL: http://projects.spring.io/spring-boot/elasticsearc
+ h/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
